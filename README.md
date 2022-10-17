@@ -1,4 +1,5 @@
 # pseudonym-2669.github.io
 
 something for something
-kkinda useless
+
+kinda useless (utility for rubik's cube)
